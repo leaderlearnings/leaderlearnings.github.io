@@ -18,12 +18,9 @@ And that endded up being a big issue. Modern internet requires encryption to wor
 
 As I looked for a long term solution I didn't spend much time on Windows 7. It's no longer supported and soon the scenario will be the same as for MacOS Lion. I needed to find a good and lightweight Linux distro to install. In the past I had MacOS and Gentoo installed at the same time in that computer. However after many years I gave up on baby siting Gentoo. Those were other times, when I was a student with endless time for playing with the computer. Also I'm looking for a Linux distro that could fit the computer buyer. Ubuntu used to be a good choice, however it no longer fits the job. From [Ubuntu's wiki](https://help.ubuntu.com/community/Installation/SystemRequirements):
 
-```
-From 17.10 onwards the desktop uses GNOME Shell. In order to run these environments the system needs a more capable graphics adapter – see more here or below:
-
-- 4096 MiB RAM (system memory) for physical installs.
-- 3D Acceleration Capable Videocard with at least 256 MB
-```
+> From 17.10 onwards the desktop uses GNOME Shell. In order to run these environments the system needs a more capable graphics adapter – see more here or below:
+> - 4096 MiB RAM (system memory) for physical installs.
+> - 3D Acceleration Capable Videocard with at least 256 MB
 
 That computer doesn't have minimum RAM and video memory required for running a recent Ubuntu disto :(
 
