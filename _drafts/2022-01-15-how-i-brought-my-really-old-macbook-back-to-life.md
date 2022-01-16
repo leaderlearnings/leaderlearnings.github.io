@@ -26,7 +26,15 @@ From 17.10 onwards the desktop uses GNOME Shell. In order to run these environme
 ```
 
 That computer doesn't have minimum RAM and video memory required for running a recent Ubuntu disto :(
+
+### Linux Distro
+
 After spending some time reading about low demanding Linux distros I endded up choosing Zorin OS Lite. It only requires 1GB RAM, is beautiful, has a solid basis (Ubuntu) and has been professionally maintained for a long time (since 2008).
+
+### Chrome OS - CloudReady
+
+As I was looking for a low demanding operating system, Chrome OS seem to be a good choice too. However Chrome OS is available only for OEMs. [CloudReady](https://www.neverware.com/freedownload#home-edition-install) is the solution, a Chrome OS build for the public. I got more excited when I found that Macbook2,1 used to be officially supported and was recently [decertified](https://cloudreadykb.neverware.com/s/article/End-of-Support-for-Intel-3rd-Generation-GPUs).
+
 
 ## Getting things done
 
@@ -34,6 +42,6 @@ Now things start to get more complicated.
 1) DVD drive is not working
 2) Macbook 2,1 (and probably other old ones) does not boot from USB if it uses MBR/BIOS.
 
-That means 
+That means I need to create a bootable GPT/UEFT USB stick.
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
