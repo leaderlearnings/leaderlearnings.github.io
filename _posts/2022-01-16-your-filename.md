@@ -6,7 +6,7 @@ categories:
 mathjax: false
 featured: false
 comments: false
-title: ''
+title: Post Ideas
 ---
 ## Post Ideas
 
