@@ -55,5 +55,6 @@ That means I need a bootabled GPT/UEFT USB stick.
 - Check what's the correct device for your USB stick. In a Mac, open DiskUtility app then plug your USB stick. You'll notice an external disk shows up. In this example, the device is `/dev/disk2` (without s2 sufix, that stands for the 2nd partition):
 ![Captura de Tela 2022-01-16 às 00.21.14.png]({{site.baseurl}}/images/Captura de Tela 2022-01-16 às 00.21.14.png)
 
-- Flash image to a USB stick. Use `/dev/rdiskX` instead of `/dev/diskX`, otherwise flashing your disk will take ours literally:
+- Flash image to a USB stick. Use `/dev/rdiskX` instead of `/dev/diskX`, otherwise flashing your disk will take hours, literally:
  - `sudo dd if=cloudready.bin of=/dev/rdisk2 bs=4m`
+- Insert the USB stick in your computer, turn it on, and keep `Option` key pressed. A menu will be displayed. Please chose your USB drive to boot from it.
