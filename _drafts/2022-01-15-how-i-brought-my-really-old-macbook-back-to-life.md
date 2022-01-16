@@ -33,7 +33,7 @@ After spending some time reading about low demanding Linux distros I endded up c
 
 ### Chrome OS - CloudReady
 
-As I was looking for a low demanding operating system, Chrome OS seem to be a good choice too. However Chrome OS is available only for OEMs. [CloudReady](https://www.neverware.com/freedownload#home-edition-install) is the solution, a Chrome OS build for the public. I got more excited when I found that Macbook2,1 used to be officially supported and was recently [decertified](https://cloudreadykb.neverware.com/s/article/End-of-Support-for-Intel-3rd-Generation-GPUs).
+As I was looking for a low demanding operating system, Chrome OS seem to be a good choice too. However Chrome OS is available only for OEMs. [CloudReady](https://www.neverware.com/freedownload#home-edition-install) is the solution, a Chrome OS build for the public. I got more excited when I found that Macbook2,1 used to be officially supported and was recently [decertified](https://cloudreadykb.neverware.com/s/article/End-of-Support-for-Intel-3rd-Generation-GPUs). Maybe it still works :)
 
 
 ## Getting things done
@@ -42,6 +42,14 @@ Now things start to get more complicated.
 1) DVD drive is not working
 2) Macbook 2,1 (and probably other old ones) does not boot from USB if it uses MBR/BIOS.
 
-That means I need to create a bootable GPT/UEFT USB stick.
+That means I need a bootabled GPT/UEFT USB stick.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+### CloudReady
+
+- Download image from [CloudReady website](https://www.neverware.com/freedownload#home-edition-install)
+- Unzip the image
+- Check what's the correct device for your USB stick. In a Mac, open DiskUtility app then plug your USB stick. You'll notice an external disk shows up. In this example, the device is `/dev/disk2` (without s2 sufix, that stands for the 2nd partition):
+![Captura de Tela 2022-01-16 às 00.21.14.png]({{site.baseurl}}/images/Captura de Tela 2022-01-16 às 00.21.14.png)
+
+- Flash image to a USB stick. Use `/dev/rdiskX` instead of `/dev/diskX`, otherwise flashing your disk will take ours literally:
+ - `sudo dd if=cloudready.bin of=/dev/rdisk2 bs=4m`
