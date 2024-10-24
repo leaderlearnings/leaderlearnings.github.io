@@ -12,7 +12,7 @@ url:        	  https://leaderlearnings.github.io/
 owner:
   name:           Rahul Yadav
   avatar:         bertacchi.jpg
-  email:          ryconnect@gmail.com
+  email:          joaobertacchi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Engenheiro de Computação e Empreendedor
   # Social networking links used in footer. Update and remove as you like.
@@ -36,20 +36,20 @@ facebook:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Artigos
     url: /
     external: false
     icon: home
-#  - title: Em Destaque
-#    url: /featured
-#    external: false
-  - title: Categories
+  - title: Em Destaque
+    url: /featured
+    external: false
+  - title: Por Categoria
     url: /categories
     external: false
-#  - title: Por Tag
-#    url: /tags
-#    external: false
-  - title: About
+  - title: Por Tag
+    url: /tags
+    external: false
+  - title: Sobre
     url: /about
     external: false
 
