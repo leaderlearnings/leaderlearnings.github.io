@@ -41,12 +41,12 @@ html, body, .summer-post-container, .summer-post-header {
   .post-template .summer-blog-menu .summer-mobile-menu a {
     color: white; }
     .post-template .summer-blog-menu .summer-mobile-menu a:hover {
-      color: white; }
+      color: blue; }
   @media only screen and (min-width: 40.063em) {
     .post-template .summer-blog-menu ul li a {
       color: white; }
       .post-template .summer-blog-menu ul li a:hover {
-        border-bottom: 0.1875rem solid white; } }
+        border-bottom: 0.1875rem solid blue; } }
   .post-template .summer-post-header {
     position: relative;
     margin: 0 auto;
