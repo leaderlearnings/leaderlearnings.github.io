@@ -11,8 +11,7 @@ headline: >-
   lhe poupar tempo e dinheiro. 
 description: Começando um negócio
 modified: '2017-06-03'
-categories:
-  - personal
+categories: personal
 ---
 Esta deve ser a orientação mais importante que todo empreendedor de primeira viagem escuta de pessoas mais experientes; e também é a mais mal compreendida. Afinal, parece meio obvio. "Antes de dedicar meu tempo e dinheiro a um empreendimento é obvio que devo verificar, da melhor forma que conseguir, quais são as chances de sucesso dessa empreitada". Ainda assim é comum que o empreendedor de primeira viagem leve mais tempo que o desejado para entender em profundidade o que isto significa.
 
