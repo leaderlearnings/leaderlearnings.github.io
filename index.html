@@ -45,20 +45,20 @@ tags: [Rahul, Yadav, leader, learnings, Technical, Manager, Software, Developmen
     <nav class="pagination" role="navigation">
     {% if paginator.previous_page %}
 	    {% if paginator.previous_page == 1 %}
-	    <a class="newer-posts" href="{{ site.url }}"><i class="fa fa-chevron-left"></i> Recentes</a>
+	    <a class="newer-posts" href="{{ site.url }}"><i class="fa fa-chevron-left"></i> New</a>
 	    {% else %}
 	    <a class="newer-posts" href="{{ site.url }}/page{{ paginator.previous_page }}"><i class="fa fa-chevron-left"></i> Newer</a>
 	    {% endif %}
 	{% else %}
-    <span class="newer-posts faded"><i class="fa fa-chevron-left"></i> Recentes</span>
+    <span class="newer-posts faded"><i class="fa fa-chevron-left"></i> New</span>
     {% endif %}
 
     
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     	{% if paginator.next_page %} 
-        <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}/">Antigos <i class="fa fa-chevron-right"></i></a>
+        <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}/">Old <i class="fa fa-chevron-right"></i></a>
     	{% else %}
-    	<span class="older-posts faded">Antigos <i class="fa fa-chevron-right"></i></span>
+    	<span class="older-posts faded">Old <i class="fa fa-chevron-right"></i></span>
     	{% endif %}
 	</nav>
 {% else %}

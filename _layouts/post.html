@@ -41,7 +41,7 @@
             </div>
             <div class="summer-post-title bg-check">
                 <h1>{{ page.title }}</h1>
-                <p>por <strong>{{ site.owner.name }}</strong> &#8212; {% assign tagsize = page.tags.size %}{% if tagsize != 0 %}em {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&comma;&nbsp;{% endunless %}{% endfor %}{% endif %} <strong><time datetime="{{ page.date | date_to_xmlschema }}">
+                <p>By <strong>{{ site.owner.name }}</strong> &#8212; {% assign tagsize = page.tags.size %}{% if tagsize != 0 %}em {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}" data-toggle="tooltip" title="Posts tagged with {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;&comma;&nbsp;{% endunless %}{% endfor %}{% endif %} <strong><time datetime="{{ page.date | date_to_xmlschema }}">
                     {{ page.date | date: "%-d" }}
                     {% assign m = page.date | date: "%-m" | minus: 1 %}
                     {{ site.data.pt-BR.months[m] }}
@@ -50,7 +50,7 @@
             </div>
             <div class="bg-img"></div>
         </header>
-        <button class="trigger bg-check" data-info="Ler mais"><span>Trigger</span></button>
+        <button class="trigger bg-check" data-info="Read More"><span>Trigger</span></button>
         {% if page.imagefeature %}<img src="{{ site.url }}/images/{{ page.imagefeature }}" alt="cover-image" />{% endif %}
         <article class="summer-post-content post">
             <div>{{ content }}
@@ -66,7 +66,7 @@
         {% if site.disqus_shortname and page.comments == true %}
         <section class="summer-disqus row">
     <div class="small-12 columns">
-        <h1 class="summer-comments-header">Comentários</h1>
+        <h1 class="summer-comments-header">Comments</h1>
         <div id="disqus_thread"></div>
         {% include disqus_comments.html %}
     </div>
