@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: JOÃO BERTACCHI
-tags: [João, Eduardo, Ferreira, Bertacchi, jebertacchi]
+title: About
+tags: [Rahul, Yadav, Technical, Software, Manager, Data, AI]
 ---
 Sou engenheiro de computação formado pela [**Unicamp**](http://www.unicamp.br) em 2006. Trabalho com desenvolvimento de software desde 2004. Durante a faculdade me envolvi em diversas atividades extra-curriculares ligadas a programação. Trabalhei no laboratório [UNISIM](https://www.unisim.cepetro.unicamp.br/br/) da faculdade de Engenharia Mecânica com modelagem e simulação de poços de petróleo para a Petrobras, e no LAS (hoje [LASCA](http://www.lasca.ic.unicamp.br/site/)) com a criação de uma distribuição Linux baseada em [Gentoo](https://gentoo.org/) para a Itautec. Também trabalhei na empresa júnior da computação, a [CONPEC](http://conpec.com.br/), com especificação de sistemas web.
 
