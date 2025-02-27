@@ -1,6 +1,6 @@
 title:            Leader Learnings
 description:      "Learning is Life"
-logo:             jeb2.png
+logo:             leader.png
 disqus_shortname: jebertacchi
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -36,7 +36,7 @@ facebook:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Chronology
     url: /
     external: false
     icon: home
