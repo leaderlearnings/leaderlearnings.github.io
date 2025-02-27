@@ -1,6 +1,6 @@
 title:            Leader Learnings
 description:      "Learning is Life"
-logo:             leader.png
+logo:             leaderlearnings.png
 disqus_shortname: jebertacchi
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,7 +11,7 @@ url:        	  https://leaderlearnings.github.io
 # Owner/author information
 owner:
   name:           Rahul Yadav
-  avatar:         bertacchi.jpg
+  avatar:         rahulyadavleaderlearnings.jpeg
   email:          ryconnect@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Technical Leadership | Software & Platform Development | Data & AI
