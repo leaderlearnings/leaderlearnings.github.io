@@ -4,8 +4,19 @@ permalink: /about/index.html
 title: About
 tags: [Rahul, Yadav, Technical, Software, Manager, Data, AI]
 ---
-Sou engenheiro de computação formado pela [**Unicamp**](http://www.unicamp.br) em 2006. Trabalho com desenvolvimento de software desde 2004. Durante cd %p && jekyll servea faculdade me envolvi em diversas atividades extra-curriculares ligadas a programação. Trabalhei no laboratório [UNISIM](https://www.unisim.cepetro.unicamp.br/br/) da faculdade de Engenharia Mecânica com modelagem e simulação de poços de petróleo para a Petrobras, e no LAS (hoje [LASCA](http://www.lasca.ic.unicamp.br/site/)) com a criação de uma distribuição Linux baseada em [Gentoo](https://gentoo.org/) para a Itautec. Também trabalhei na empresa júnior da computação, a [CONPEC](http://conpec.com.br/), com especificação de sistemas web.
+Over the past 14+ years, I’ve grown from an embedded systems engineer into a strategic engineering leader, currently managing AI-powered data platforms at Comcast. I lead a high-performing global engineering team focused on building scalable, self-service big data platforms using AI, AWS, and modern architecture. My passion lies in solving complex problems with clarity and technology.
 
-  <img src="{{ site.url }}/images/joao-bertacchi.jpg" alt="João Eduardo Ferreira Bertacchi  "/>
+ <img src="{{ site.url }}/images/joao-bertacchi.jp" alt="Rahul Yadav Picture in the making"/>
+ 
+2024 Highlights:
+🏆 2024 Ideator Annual Award for launching an AI-powered product that reduced root cause analysis time in customer experience from hours to seconds
+🚀 Led development of GenAI chatbot showcased at Xplore 2024
+📈 Delivered 12+ initiatives with a 90% quarterly commitment rate, including two new growth products
+💰 Saved $1M+ through AWS cost optimization strategies
+🧠 Certified in Data Science & AI | Trained SAFe 6 Agilist
 
-Iniciei mestrado em sistemas distribuídos também pela Unicamp em 2007. Durante o mestrado fiz um intercâmbio profissional pela [AIESEC](http://aiesec.org.br/) na universidade alemã [RWTH-Aachen](https://www.rwth-aachen.de/) no qual trabalhei no projeto [Med-on-@ix](http://www.medonaix.de/) com processamento, transmissão e visualisação em tempo real de sinais vitais de pacientes capturados monitores da Philips. Alguns meses após retornar do intercâmbio me mudei para São José dos Campos para trabalhar na [Embraer](http://www.embraer.com/) com pesquisa e desenvolvimento de sistemas de software principalmente de uso militar. Durante os vários anos de Embraer tenho participado de diversos projetos apoiando sua estruturação, buscando recursos para os mesmos junto a FINEP, elicitando requisitos, projetando sistemas, desenvolvendo software e fazendo a gerência de projetos. Para mais detalhes sobre cada uma dessas atividades e dos projetos nos quais trabalhei acesse meu perfil no [LinkedIn](https://www.linkedin.com/in/jebertacchi/).
+What sets me apart is my ability to connect the dots between people, platforms, and purpose. I lead with empathy, think in systems, and thrive at the intersection of innovation and execution. I am passionate about developer experience, scalable architecture, and mentoring future leaders.
+
+As I look ahead, I’m excited to grow into broader leadership roles where I can scale impact, shape product vision, and eventually build something of my own.
+
+Let’s connect if you’re building something bold, or looking for someone who is. I’m open to speaking opportunities, leadership collaborations, and mentoring.
