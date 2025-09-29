@@ -9,15 +9,10 @@ Over the past 14+ years, I’ve grown from an embedded systems engineer into a s
  <img src="{{ site.url }}/images/joao-bertacchi.jp" alt="Rahul Yadav Picture in the making"/>
  
 2024 Highlights:
-
 🏆 2024 Ideator Annual Award for launching an AI-powered product that reduced root cause analysis time in customer experience from hours to seconds
-
 🚀 Led development of GenAI chatbot showcased at Xplore 2024
-
 📈 Delivered 12+ initiatives with a 90% quarterly commitment rate, including two new growth products
-
 💰 Saved $1M+ through AWS cost optimization strategies
-
 🧠 Certified in Data Science & AI | Trained SAFe 6 Agilist
 
 What sets me apart is my ability to connect the dots between people, platforms, and purpose. I lead with empathy, think in systems, and thrive at the intersection of innovation and execution. I am passionate about developer experience, scalable architecture, and mentoring future leaders.
