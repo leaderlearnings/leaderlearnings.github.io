@@ -10,6 +10,7 @@ categories:
 image: 
   feature: PinkBG.png
 comments: true
+featured: false
 mathjax: false
 ---
 
