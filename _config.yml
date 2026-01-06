@@ -124,8 +124,8 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
+            - name: "AI"
+              value: ai
             - name: "Physics"
               value: physics
             - name: "Psychology"
