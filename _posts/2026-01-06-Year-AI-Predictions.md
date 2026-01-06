@@ -6,7 +6,7 @@ description: It is summary created by AI & Data Leader Rahul Yadav of Allie K. M
 headline: Some headline				# Will appear in bold letters on top of the post
 modified: 2026-01-05				# Date
 categories: 
-  AI
+  - AI
 tags: []
 image: 
   feature: PinkBG.png
