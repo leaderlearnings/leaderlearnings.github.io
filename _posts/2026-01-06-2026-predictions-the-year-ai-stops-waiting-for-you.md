@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 🚀 2026 Predictions - The Year AI Stops Waiting for You.
 categories: 
-  - AI
+  - ai
 comments: false
 featured: false
 mathjax: false
